@@ -22,3 +22,10 @@
 
         解决：  
         Ubuntu 20.04 / ROS Noetic 的 官方 apt 仓库里根本没有 ros-noetic-libuvc 这个包——它从未被 Release 过。（很多教程把 4 个包写在一起，但第 2 个 libuvc 是多余的。）
+
+
+4. Astra 系列基于结构光技术。
+    包含三个版本：Astra（长距）、Astra S（短距）和 Astra Pro Plus（高分辨率 RGB）版本。
+    ![alt text](image-3.png)  
+    目前手里这个是：  
+    Orbbec OpenNI SDK （todo: 去了解以下）。  
