@@ -6,8 +6,8 @@
    1. 虚拟机安装了ubuntu20.04系统，ros版本noetic,专门为机器人开发搭建环境。
    2. 为方便在环境崩溃时能够迅速重新搭建环境，继续搭建环境步骤：
       1. 安装官方ubuntu镜像
-      2. 安装开发软件均在nas/share/常用软件/ubuntu目录下
-      3. 所有的开发文件都在fnos_ubuntu2004目录下，不会再其他地方放需要备份的文件。该文件回定期上传至nas/share/fnos_xuniji_back/fnos_ubuntu2004
+      2. 安装开发软件均在nas/share/常用软件/ubuntu目录下；另外除了通过安装包安装的软件之外，还有在线安装的工具：ros ssh。
+      3. 所有的开发文件都在fnos_ubuntu2004目录下，不会再其他地方放需要备份的文件。该文件回定期上传至nas/share/fnos_xuniji_back/fnos_ubuntu2004。
 
 
 
