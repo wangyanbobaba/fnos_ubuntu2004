@@ -22,8 +22,9 @@
          wyb   //存放自己单独测试的ros包：
          └── work_space
             └── src
-                  ├── 
+                  ├── turn_on_wheeltec_robot //机器人底盘ros包以及相关介绍
                   └── ros_astra_camera //奥比中光相机ros包
+
       2. /home/wheeltec/wheeltec_robot //机器人导航包含的功能包
          wheeltec_robot
          ├── build
