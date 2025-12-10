@@ -1,3 +1,5 @@
 **/build
 **/devel
+**/devel_isolated
+**/build_isolated
 wheeltec_robot/src.zip
